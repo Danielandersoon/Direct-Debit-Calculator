@@ -1,0 +1,6 @@
+﻿  DDC.cpp
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(4,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(5,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(6,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(7,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DirectDebitCalculator.vcxproj -> G:\DirectDebitCalculator\x64\Debug\DirectDebitCalculator.exe

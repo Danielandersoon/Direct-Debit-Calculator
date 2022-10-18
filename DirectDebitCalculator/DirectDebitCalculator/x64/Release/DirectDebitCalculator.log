@@ -1,0 +1,11 @@
+﻿  DDC.cpp
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(4,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(5,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(6,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\DirectDebitCalculator\DirectDebitCalculator\DDC.cpp(7,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  70 of 145 functions (48.3%) were compiled, the rest were copied from previous compilation.
+    24 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DirectDebitCalculator.vcxproj -> G:\DirectDebitCalculator\x64\Release\DirectDebitCalculator.exe
